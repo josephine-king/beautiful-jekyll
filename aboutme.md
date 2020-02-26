@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Electrical Engineer Graduating from Harvey Mudd College May 2020
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Josephine King. I'm a senior at Harvey Mudd, which is a small STEM liberal arts college in Claremont, CA. I'm majoring in engineering, with a focus in electrical engineering. My interests include robotics and control theory, digital and analog design, and history. Click through my blog to read about some of my favorite projects that I've completed at Harvey Mudd!
