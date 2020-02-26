@@ -14,7 +14,7 @@ description: Electrical Engineer graduating from Harvey Mudd College May 2020
 url: "https://josephine-king.github.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - LinkedIn: "http://linkedin.com/in/josephine-king/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Contact: "http://josephine-king.github.io/contact"
   Projects:
     - LED Rubik's Cube: "http://josephine-king.github.io/led-rubiks"
 
