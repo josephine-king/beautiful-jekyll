@@ -1,0 +1,1 @@
+For my Communicating Science class, I created a work of popular science about the [history of pandemics](http://claremontdh.net/scalar/communicating-science-2019/project-pinky). I focused on five diseases: leprosy, plague, measles, cholera, and HIV/AIDS.
