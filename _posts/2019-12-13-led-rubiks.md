@@ -4,7 +4,7 @@ I created this LED Rubik's cube with my partner, Aaron Trujillo, as a final proj
 
 Unlike a traditional Rubik's Cube, the faces can't rotate. Instead, the user selects a button corresponding to the center color of the face they wish to rotate. Then, they can rotate that face clockwise or counter-clockwise by rotating the rotary encoder, which is a knob on the control panel. The reset button can be used to either scramble or solve the cube, depending on what state it's in. 
 
-![block-diagram](/img/block-diagram.png){: .center-block :}
+![block-diagram](/img/block-diagram-rubiks.png){: .center-block :}
 
 We used the microprocessor to read in user inputs from buttons and the rotary encoder. Based on this input, the microcontroller performed a rotation to determine the cube's new configuration, and sent this configuration over SPI to the FPGA. The FPGA then programmed the LEDs to their new configuration.
 
