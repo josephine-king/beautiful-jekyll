@@ -31,6 +31,10 @@ navbar-links:
     - AES Encryption: "http://josephine-king.github.io/2019-10-30-AES-encryption"
     - MPC Path Planning: "http://josephine-king.github.io/2019-12-13-MPC-path-planning"
     - Phase Change Memory: "http://josephine-king.github.io/2018-08-15-phase-change-memory"
+  Misc:
+    - 12 Months of California Birds: "http://josephine-king.github.io/2020-01-08-birds"
+    - Pandemics: "http://josephine-king.github.io/2019-03-01-pandemics"
+    - Reproductive Rights in Latin America: "http://josephine-king.github.io/2019-12-11-latinamerica"
     
 
 # Image to show in the navigation bar - image must be a square (width = height)
