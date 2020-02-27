@@ -1,3 +1,9 @@
+---
+layout: post
+title: LED Rubik's Cube
+tags: [FPGA, microprocessor, design, C, SystemVerilog]
+---
+
 I created this LED Rubik's cube with my partner, Aaron Trujillo, as a final project for my Microprocessor-Based Systems and Design class. We had 5 weeks to design and build the project, and had to use both a microcontroller and an FPGA in a meaningful way. Before diving into the technical aspects of our project, I'll briefly explain the concept behind our LED Rubik's Cube. 
 
 ![cube-drawing](/img/cube-drawing.png){: .center-block :}
