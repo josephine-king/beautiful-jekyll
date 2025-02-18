@@ -25,5 +25,5 @@ All estimators successfully guided the drones to their target positions, but the
 
 This project demonstrated the importance of state estimation in multi-agent systems, particularly when working with noisy measurements. While simple estimators like LS can work well in many cases, the Kalman filter’s ability to incorporate past state estimates made it the most effective for minimizing noise effects.  
 
-For more details, check out the full project code [here](https://github.com/josephine-king/ET4386_drone_formation).  
+For more details, check out our full [report](https://josephine-king.github.io/2025-02-18-Drone-formation-report/) and [code](https://github.com/josephine-king/ET4386_drone_formation).  
 
