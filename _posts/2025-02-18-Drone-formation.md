@@ -1,7 +1,5 @@
 # State Estimation for Multi-Agent Drone Formation  
 
-**February 2025**  
-
 For this project, my teammate and I worked on state estimation for a multi-agent drone formation system. Given a set of drones that need to move into a predefined formation, we aimed to estimate their positions from noisy relative measurements and control their movement accordingly. This project was entirely simulation-based and implemented in Python.  
 
 ## The Problem  
