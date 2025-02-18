@@ -27,13 +27,13 @@ navbar-links:
     - Resume: "http://josephine-king.github.io/2020-01-01-resume"
   Projects:
     - LED Rubik's Cube: "http://josephine-king.github.io/2019-12-13-led-rubiks"
-    - IOT Temperature Sensor: "http://josephine-king.github.io/2019-10-20-IOT-temperature-sensor"
-    - AES Encryption: "http://josephine-king.github.io/2019-10-30-AES-encryption"
+    #- IOT Temperature Sensor: "http://josephine-king.github.io/2019-10-20-IOT-temperature-sensor"
+    #- AES Encryption: "http://josephine-king.github.io/2019-10-30-AES-encryption"
     - MPC Path Planning: "http://josephine-king.github.io/2019-12-13-MPC-path-planning"
     - Phase Change Memory: "http://josephine-king.github.io/2018-08-15-phase-change-memory"
   Misc:
     - 12 Months of California Birds: "http://josephine-king.github.io/2020-01-08-birds"
-    - Pandemics: "http://josephine-king.github.io/2019-03-01-pandemics"
+    #- Pandemics: "http://josephine-king.github.io/2019-03-01-pandemics"
     - Reproductive Rights in Latin America: "http://josephine-king.github.io/2019-12-11-latinamerica"
     
 
