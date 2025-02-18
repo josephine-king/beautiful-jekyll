@@ -26,6 +26,7 @@ navbar-links:
     - Contact: "http://josephine-king.github.io/2020-01-01-contact"
     - Resume: "http://josephine-king.github.io/2020-01-01-resume"
   Projects:
+    - Multi-agent Drone Formation: "http://josephine-king.github.io/2025-02-18-Drone-Formation"
     - LED Rubik's Cube: "http://josephine-king.github.io/2019-12-13-led-rubiks"
     #- IOT Temperature Sensor: "http://josephine-king.github.io/2019-10-20-IOT-temperature-sensor"
     #- AES Encryption: "http://josephine-king.github.io/2019-10-30-AES-encryption"
